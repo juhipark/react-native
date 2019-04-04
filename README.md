@@ -145,3 +145,8 @@ React Native documentation is Creative Commons licensed, as found in the [LICENS
 
 [l]: https://github.com/facebook/react-native/blob/master/LICENSE
 [ld]: https://github.com/facebook/react-native/blob/master/LICENSE-docs
+
+
+<strong>Edited by Juhi Park</strong>
+
+
